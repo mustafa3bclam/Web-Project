@@ -2,7 +2,6 @@
 
 This is a simple web project template named "Leon Template One". It includes a landing page, features section, and services section.
 
-## Project Structure
 
 ## How to Run
 
